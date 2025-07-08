@@ -74,4 +74,4 @@ To evaluate the impact of social media engagement on consumer shopping behavior 
 - **Prabhujit Singh** - [Github](https://github.com/jit7154)
 ---
 
-> 🧩 _A project focused on deriving real business intelligence from raw behavioral data, leveraging Excel's full analytics capabilities._
+> 🧩 _A project focused on deriving real business intelligence from raw behavioral data, leveraging Excel's full analytics capabilities.__
